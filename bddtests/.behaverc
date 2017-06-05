@@ -1,0 +1,3 @@
+[behave]
+tags=~@orderer
+	 ~@endorser
